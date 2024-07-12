@@ -15,6 +15,28 @@ Our team specializes in creating robust mobile operating systems that prioritize
 - Burner SIM: A dedicated burner SIM will be provided to enhance security and privacy.
 - Remote Updates: The device and our secure app will receive regular updates from our server to maintain security.
 
+# *AnonSecureOS*
+
+## Supported Devices
+
+AnonSecureOS is designed to run on the following devices:
+
+| Device Name         | Model                  | Notes                              |
+|---------------------|------------------------|------------------------------------|
+| OnePlus              | OnePlus 12             | Fully supported                     |
+| Google               | Pixel 8                | Fully supported                     |
+| Google               | Pixel 8 Pro            | Fully supported                     |
+| Xiaomi               | Mi 14                  | Fully supported                     |
+| Xiaomi               | Mi 14 Pro              | Fully supported                     |
+| Xiaomi               | Mi 14 Ultra            | Fully supported                     |
+| Samsung              | Galaxy S24             | Fully supported                     |
+| Samsung              | Galaxy S24 Ultra       | Fully supported                     |
+| Apple                | iPhone 15              | Fully supported                     |
+| Apple                | iPhone 15 Pro          | Fully supported                     |
+| Apple                | iPhone 15 Pro Max      | Fully supported                     |
+
+**Note:** Lower versions of iPhone have hardware weaknesses and are not recommended for use with AnonSecureOS.
+
 # **Important Note**
 While we provide robust privacy and security features, we are not responsible for any legal issues that may arise from misuse of the device or software.
 

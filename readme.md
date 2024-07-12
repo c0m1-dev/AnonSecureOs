@@ -1,10 +1,10 @@
-# **AnonSecureOS Repository
+# **AnonSecureOS Repository** 
 Welcome to the SecureOS repository! This project is designed to inform you about our efforts to develop secure and private software solutions for Android and iOS devices.
 
 ## Overview
 Our team specializes in creating robust mobile operating systems that prioritize user privacy and security. We aim to provide a secure environment for users, ensuring protection against tracking and unauthorized access.
 
-# **Key Features
+# **Key Features**
 - Pure AOSP Android: Built on a clean version of AOSP, stripped of tracking modules and unnecessary features.
 - Enhanced Security:
 - Removal of recovery bootloader and USB OTG functionality.
@@ -15,7 +15,7 @@ Our team specializes in creating robust mobile operating systems that prioritize
 - Burner SIM: A dedicated burner SIM will be provided to enhance security and privacy.
 - Remote Updates: The device and our secure app will receive regular updates from our server to maintain security.
 
-# **Important Note
+# **Important Note**
 While we provide robust privacy and security features, we are not responsible for any legal issues that may arise from misuse of the device or software.
 
 # Ordering Information
